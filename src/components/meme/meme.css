@@ -1,0 +1,25 @@
+.first{
+    margin: 15px;
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.image{
+    position: fixed;
+    top: 2%;
+    bottom: 2%;
+    left: 25%;
+    right: 25%;
+    width: 50%;
+}
+
+.main-image{
+    max-width: 100%;
+    max-height: 100%;
+}
